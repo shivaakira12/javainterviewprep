@@ -1,4 +1,3 @@
-Certainly! Below is a **README.md** file that summarizes the content about **Strings** and **StringBuffer** in Java. You can use this as a reference or documentation for your project or study notes.
 
 ---
 
@@ -158,9 +157,3 @@ System.out.println(sb.toString()); // Hello World
 - **StringBuilder**: Mutable, not thread-safe, faster than `StringBuffer`.
 
 ---
-
-Feel free to use this README file for your reference or documentation. Let me know if you need further assistance! 😊
-
----
-
-You can save this content in a file named `README.md` and use it for your project or study purposes. Let me know if you need any modifications! 😊
